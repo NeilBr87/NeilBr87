@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeilBr87
-- 👀 I’m about to begin studying at the School of Code!
-- 🌱 I have soem experience with HTML, CSS, and Python
+- 👀 I’m a full-stack development bootcamper at the School of Code!
+- 🌱 Key areas of study so far include Javascript fundamentals, DOM, UI/UX, Node.js and React.
 - 📫 How to reach me: My email address is neil.brooks87@gmail.com
 
 
